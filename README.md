@@ -1,4 +1,4 @@
-### helpers
+# helpers
 Scripts to simplify life
 
 ## toggle-notifications.sh
